@@ -2,7 +2,6 @@ import sys
 
 file_name = sys.argv[1]
 
-
 def bubble_sort(int_list):
     _sorted = []
     int_iter = iter(int_list)
